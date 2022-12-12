@@ -4,11 +4,8 @@
 
 /**
  * main - assigns a random nuber to int n everytime
- 
  * it executes and prints it
- 
- * return: Always 0 (success)
-  
+ * return: Always 0 (success)  
  */
 
 int main(void)
